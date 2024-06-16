@@ -8,3 +8,6 @@ Then add in the correct chromedriver, and you should be in business*
 1. Edit user.py to contain your username and password for lle
 2. run scrape_metadata.py
     - tgz files containing pulseshape information are stored in Data/tgz_files
+
+Currently, json files contain placeholders and the data directories are empty.
+Once you scrape the data, everything will be populated from your scrape.
